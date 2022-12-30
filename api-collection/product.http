@@ -1,0 +1,56 @@
+
+@baseUrl = http://localhost:3000/api/
+
+@resourceName = products
+
+# @name getAllProducts
+GET {{baseUrl}}products
+
+###
+
+# @name filterProducts
+# GET {{baseUrl}}products/?color=pink
+GET {{baseUrl}}products/?name_like=1&_limit=10
+# GET {{baseUrl}}products/?color=azure
+
+###
+
+# @name pagination
+GET {{baseUrl}}/products?_page=1&_limit=10
+
+
+###
+
+# @name AddNewProducts
+POST {{baseUrl}}products
+Content-Type: application/json
+
+{
+    "categoryId": "59a5448d-8eab-4207-a409-388e09cb5124",
+    "name": "Ergonomic Frozen Pizza",
+    "color": "black",
+    "price": "250.00",
+    "description": "Andyffdsfs  shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "thumbnailUrl": "https://loremflickr.com/400/400"
+}
+
+###
+
+# @name updateProducts
+
+PATCH {{baseUrl}}products/EDy8q-k
+Content-Type: application/json
+
+{
+    "color": "red",
+    "price": "9234",
+    "description": "Andyffdsfs  shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "thumbnailUrl": "https://loremflickr.com/400/400"
+}
+
+###
+
+# @name deleteProducts
+
+DELETE {{baseUrl}}products/5
+Content-Type: application/json

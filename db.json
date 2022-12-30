@@ -1,0 +1,253 @@
+{
+  "categories": [
+    {
+      "id": "597eca43-2067-4e8b-857f-960292fb853c",
+      "name": "Computers",
+      "createAt": 1672366576918,
+      "updatedAt": 1672366576918
+    },
+    {
+      "id": "27419286-6111-48f2-9211-69adb60cd764",
+      "name": "Computers",
+      "createAt": 1672366576918,
+      "updatedAt": 1672366576918
+    },
+    {
+      "id": "b909e400-4c34-4209-86aa-44a4120ee377",
+      "name": "Jewelery",
+      "createAt": 1672366576918,
+      "updatedAt": 1672366576918
+    },
+    {
+      "id": "a30e9bb4-11ea-4e9d-8d18-8a6599334c50",
+      "name": "Computers",
+      "createAt": 1672366576918,
+      "updatedAt": 1672366576918
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "597eca43-2067-4e8b-857f-960292fb853c",
+      "id": "3e34d45d-f294-4062-b8a0-4f932bf76d55",
+      "name": "Sleek Frozen Sausages",
+      "color": "mint green",
+      "price": "142.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1672366576918,
+      "updatedAt": 1672366576918,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "597eca43-2067-4e8b-857f-960292fb853c",
+      "id": "1410cb3f-5bfe-4a33-81fa-694b5b2520bb",
+      "name": "Awesome Cotton Pants",
+      "color": "yellow",
+      "price": "810.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1672366576918,
+      "updatedAt": 1672366576918,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "597eca43-2067-4e8b-857f-960292fb853c",
+      "id": "e73daf62-4d73-47d6-9aa5-1ad6a4426f25",
+      "name": "Licensed Frozen Shirt",
+      "color": "orchid",
+      "price": "812.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1672366576918,
+      "updatedAt": 1672366576918,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "597eca43-2067-4e8b-857f-960292fb853c",
+      "id": "8c2b1ebf-009c-4753-95d3-ac5fd36dcd56",
+      "name": "Tasty Steel Chicken",
+      "color": "olive",
+      "price": "159.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1672366576918,
+      "updatedAt": 1672366576918,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "597eca43-2067-4e8b-857f-960292fb853c",
+      "id": "405bf247-8323-4ce4-be8c-56b7dfb1e7da",
+      "name": "Bespoke Bronze Pizza",
+      "color": "olive",
+      "price": "929.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1672366576918,
+      "updatedAt": 1672366576918,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "27419286-6111-48f2-9211-69adb60cd764",
+      "id": "1b4b54f7-cd09-4865-9b2d-3605d024b943",
+      "name": "Incredible Frozen Table",
+      "color": "black",
+      "price": "83.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "27419286-6111-48f2-9211-69adb60cd764",
+      "id": "5f015b74-f6cb-4730-b8b3-aa817551a090",
+      "name": "Rustic Fresh Pizza",
+      "color": "salmon",
+      "price": "589.00",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "27419286-6111-48f2-9211-69adb60cd764",
+      "id": "545e8f9d-28c2-41e8-8f04-fd7b1f7b0664",
+      "name": "Gorgeous Steel Shirt",
+      "color": "turquoise",
+      "price": "59.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "27419286-6111-48f2-9211-69adb60cd764",
+      "id": "52acbfcb-2035-4bc8-9c0b-447ab3d998f1",
+      "name": "Ergonomic Plastic Soap",
+      "color": "fuchsia",
+      "price": "843.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "27419286-6111-48f2-9211-69adb60cd764",
+      "id": "f8721a5b-7b61-4396-bbf4-00194e0fd6fb",
+      "name": "Modern Rubber Pizza",
+      "color": "ivory",
+      "price": "607.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b909e400-4c34-4209-86aa-44a4120ee377",
+      "id": "dcfd4a2e-51f1-444b-9fc9-2a8db91a09c5",
+      "name": "Sleek Cotton Bacon",
+      "color": "lavender",
+      "price": "922.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b909e400-4c34-4209-86aa-44a4120ee377",
+      "id": "9ab0825c-642b-4b28-8453-f685d6550a8e",
+      "name": "Tasty Soft Shirt",
+      "color": "teal",
+      "price": "767.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b909e400-4c34-4209-86aa-44a4120ee377",
+      "id": "ce63a878-23e9-4c28-94ba-54b4a401be6f",
+      "name": "Bespoke Soft Chair",
+      "color": "lavender",
+      "price": "404.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b909e400-4c34-4209-86aa-44a4120ee377",
+      "id": "31d337cc-17b3-452b-9a02-b30db3dfe403",
+      "name": "Unbranded Plastic Chicken",
+      "color": "green",
+      "price": "765.00",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b909e400-4c34-4209-86aa-44a4120ee377",
+      "id": "82a717fa-f14a-4031-98db-56e6f8b63dc8",
+      "name": "Modern Fresh Sausages",
+      "color": "maroon",
+      "price": "207.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a30e9bb4-11ea-4e9d-8d18-8a6599334c50",
+      "id": "eadcb06c-6f13-423c-8dec-30bdd34f367e",
+      "name": "Handmade Fresh Fish",
+      "color": "blue",
+      "price": "811.00",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a30e9bb4-11ea-4e9d-8d18-8a6599334c50",
+      "id": "4b2ac474-0e24-41a7-88e1-63bec61d0b90",
+      "name": "Gorgeous Plastic Shoes",
+      "color": "azure",
+      "price": "516.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a30e9bb4-11ea-4e9d-8d18-8a6599334c50",
+      "id": "93c89556-0678-4e9a-b112-2c2151ea07fa",
+      "name": "Practical Rubber Cheese",
+      "color": "yellow",
+      "price": "183.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a30e9bb4-11ea-4e9d-8d18-8a6599334c50",
+      "id": "30cbcaf3-4dd4-4f33-948b-341c1918c4ad",
+      "name": "Practical Fresh Computer",
+      "color": "salmon",
+      "price": "182.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a30e9bb4-11ea-4e9d-8d18-8a6599334c50",
+      "id": "5b1110d4-cfb9-405f-b09b-bad0ceec4a59",
+      "name": "Handmade Wooden Cheese",
+      "color": "pink",
+      "price": "877.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1672366576919,
+      "updatedAt": 1672366576919,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    }
+  ],
+  "profile": {
+    "name": "Sang Tran Dev"
+  }
+}
