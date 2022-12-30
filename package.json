@@ -16,7 +16,8 @@
   "license": "MIT",
   "dependencies": {
     "json-server": "^0.17.1",
-    "query-string": "^8.1.0"
+    "query-string": "^8.1.0",
+    "@faker-js/faker": "^7.6.0"
   },
   "devDependencies": {
     "@faker-js/faker": "^7.6.0",
